@@ -1,0 +1,17 @@
+[
+  {
+    id: 1,
+    completed: true,
+    title: 'Купить'
+  },
+  {
+    id: 2,
+    completed: false,
+    title: 'Продать'
+  },
+  {
+    id: 3,
+    completed: false,
+    title: 'Взять'
+  }
+]
