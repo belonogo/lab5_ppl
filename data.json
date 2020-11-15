@@ -1,0 +1,32 @@
+[
+    {
+      "userId": 1,
+      "id": 1,
+      "title": "Core i9-10900K",
+      "completed": false
+    },
+    {
+      "userId": 1,
+      "id": 2,
+      "title": "Ryzen 7 3800XT",
+      "completed": false
+    },
+    {
+      "userId": 1,
+      "id": 3,
+      "title": "Core i7-7700K",
+      "completed": false
+    },
+    {
+      "userId": 1,
+      "id": 4,
+      "title": "Pentium G5400",
+      "completed": false
+    },
+    {
+      "userId": 1,
+      "id": 5,
+      "title": "Athlon 220GE",
+      "completed": false
+    }
+  ]
